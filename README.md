@@ -10,6 +10,10 @@ https://wandb.ai/dl-1/dl-assignment-1/reports/DA6401-Assignment-1--VmlldzoxMTcwN
 The wandb report can be found in the following link:
 https://wandb.ai/dl-1/dl-assignment-1/reports/DA6401-Assignment-1--VmlldzoxMTcwNTgzNg
 
+the GitHub link is here:
+https://github.com/sapna2708/dl-assignment-1
+
+
 The problem statement involves building and training a 'plain vanilla' Feed Forward Neural Network from scratch using primarily Numpy package in Python.
 
 The code base now has the following features:
